@@ -35,7 +35,9 @@
 7. phrase it up!
 8. Advanced Grammer 
 ## Level 4
-
+1. Accent 
+2. Slango 
+3. Reading 
 ----
 
 # More Resources 
