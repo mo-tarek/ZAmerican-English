@@ -44,3 +44,4 @@
 - Droos Online 
 - Master English 
 - English with Mr Duncan 
+- Duolingo
