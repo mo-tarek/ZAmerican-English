@@ -279,3 +279,44 @@
 - vocab categories 
 - situations 
 - ielts preparation 
+
+
+### duoling
+- sentences 
+- food 
+- people 
+- animals 
+- possesses
+- clothes 
+- present simple 
+- questions 
+- propositions 
+- family 
+- adjectives 
+- phresal verbs
+- home 
+- journey - trip 
+- numbers 
+- study 
+- infinative
+- work 
+- comparison
+- opinion
+- heath 
+- .. 
+- nature
+- sports 
+- mass media 
+- body 
+- politics 
+- future 
+- trading 
+- problems 
+- principles 
+- sciences 
+- .. 
+- .. 
+- religion
+- ..
+- arts 
+- 
